@@ -1,3 +1,4 @@
+#ITERATIVE METHOD OF SOLVING 
 def fun(arr,n,target):
     low = 0 
     n = len(arr)
